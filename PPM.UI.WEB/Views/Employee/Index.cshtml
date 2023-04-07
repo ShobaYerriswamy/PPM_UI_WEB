@@ -1,0 +1,130 @@
+@model IEnumerable<PPM.DAL.Models.Employee>
+
+    @{
+        ViewBag.Title = "Employee";
+    }
+
+    <h1>Employee List</h1>
+
+   @if (TempData["InfoMessage"] != null)
+    {
+        <div class = "alert alert-info">
+            <strong>Info ! </strong>@TempData["InfoMessage"]
+            <button type="button" class="close" data-dis="alert" aria-label="Close">
+                <span>&times;</span>
+            </button>
+         </div>
+    }
+    else if (TempData["SuccessMessage"] != null)
+    {
+        <div class = "alert alert-success">
+            <strong>Success ! </strong>@TempData["SuccessMessage"]
+            <button type="button" class="close" data-dis="alert" aria-label="Close">
+                <span>&times;</span>
+            </button>
+         </div>
+    }
+    else if (TempData["ErrorMessage"] != null)
+    {
+        <div class = "alert alert-danger">
+            <strong> Error ! </strong>@TempData["ErrorsMessage"]
+            <button type="button" class="close" data-dis="alert" aria-label="Close">
+                <span>&times;</span>
+            </button>
+         </div>
+    }
+
+
+    <p>
+        <h2>@Html.ActionLink("Create New Employee", "Create",null, new {@class = "btn btn-primary"})</h2>
+    </p>
+    <br>
+
+
+    <table class="Table">
+        <thead>
+            <tr>
+               
+                <th width="150">
+                    @Html.DisplayNameFor(model => model.FirstName)
+                </th>
+                <th width="150">
+                    @Html.DisplayNameFor(model => model.LastName)
+                </th>
+                <th width="150">
+                    @Html.DisplayNameFor(model => model.EmailId)
+                </th>
+                <th width="150">
+                    @Html.DisplayNameFor(model => model.MobileNumber)
+                </th>
+                <th width="150">
+                    @Html.DisplayNameFor(model => model.Password)
+                </th>
+                <th width="150">
+                    @Html.DisplayNameFor(model => model.Address)
+                </th>
+                <th width="150">
+                    @Html.DisplayNameFor(model => model.RoleId)
+                </th>
+
+                <th width="700">Action Methods</th>
+            </tr>
+        </thead>
+
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                
+                <td>
+                    @item.FirstName
+                </td>
+                <td>
+                    @item.LastName
+                </td>
+                <td>
+                    @item.EmailId
+                </td>
+                <td>
+                    @item.MobileNumber
+                </td>
+                <td>
+                    @item.Password
+                </td>
+                <td>
+                    @item.Address
+                </td>
+                <td>
+                    @item.RoleId
+                </td>
+                
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.EmployeeId }, new {@class = "btn btn-primary"}) &nbsp;&nbsp;
+                    @Html.ActionLink("Details", "Details", new { id = item.EmployeeId }, new {@class = "btn btn-success"})&nbsp;&nbsp;
+                    @Html.ActionLink("Delete", "Delete", new { id = item.EmployeeId }, new {@class = "btn btn-danger"})
+
+                   
+                </td>
+            </tr>
+        </tbody>
+        
+    }
+</table>
+
+<html>
+    <style>
+        th, td {
+        padding: 25px;
+        }
+
+        table {
+        border-collapse: collapse;
+        border: 2px solid black;
+        }
+
+        th, td {
+        border: 2px solid rgb(0, 0, 0);
+
+    }
+    </style>
+</html>

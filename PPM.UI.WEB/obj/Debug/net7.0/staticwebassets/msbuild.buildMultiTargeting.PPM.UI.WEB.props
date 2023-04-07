@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PPM.UI.WEB.props" />
+</Project>

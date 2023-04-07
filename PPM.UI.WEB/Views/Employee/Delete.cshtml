@@ -1,0 +1,82 @@
+@model PPM.DAL.Models.Employee
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+<h2 style="color: orange;"><u>Delete Employee</u></h2>
+<br>
+
+@if (TempData["ErrorMessage"] != null)
+    {
+        <div class = "alert alert-danger">
+            <strong>Error ! </strong>@TempData["ErrorMessage"]
+            <button type="button" class="close" data-dis="alert" aria-label="Close">
+                <span>&times;</span>
+            </button>
+         </div>
+    }
+    
+
+<h3 style="color: purple;"><u>Are You Sure You Want To Delete This Employee ?</u></h3>
+<br>
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EmailId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EmailId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.MobileNumber)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MobileNumber)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.RoleId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RoleId)
+        </dd>
+    </dl>
+
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> <br><br>
+        
+            <h6>@Html.ActionLink("Back to List", "Index")</h6>
+        </div>
+    }
+</div>

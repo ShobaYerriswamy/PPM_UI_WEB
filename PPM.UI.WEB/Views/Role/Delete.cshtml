@@ -1,0 +1,52 @@
+@model PPM.DAL.Models.Role
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+<h2 style="color: orange;"><u>Delete Role</u></h2>
+<br>
+
+@if (TempData["ErrorMessage"] != null)
+    {
+        <div class = "alert alert-danger">
+            <strong>Error ! </strong>@TempData["ErrorMessage"]
+            <button type="button" class="close" data-dis="alert" aria-label="Close">
+                <span>&times;</span>
+            </button>
+         </div>
+    }
+    
+
+<h3 style="color: purple;"><u>Are You Sure You Want To Delete This Role ?</u></h3>
+<br>
+<div>
+    <h4>Role</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.RoleId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RoleId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.RoleName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RoleName)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> <br>
+            <br>
+            
+           <h6> @Html.ActionLink("Back to List", "Index")</h6>
+        </div>
+    }
+</div>

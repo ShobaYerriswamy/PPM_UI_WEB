@@ -1,0 +1,63 @@
+@model PPM.DAL.Models.Project
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+<h2 style="color: orange;"><u>Delete Project</u></h2>
+<br>
+
+@if (TempData["ErrorMessage"] != null)
+    {
+        <div class = "alert alert-danger">
+            <strong>Error ! </strong>@TempData["ErrorMessage"]
+            <button type="button" class="close" data-dis="alert" aria-label="Close">
+                <span>&times;</span>
+            </button>
+         </div>
+    }
+
+
+<h3 style="color: purple;"><u>Are You Sure You Want To Delete This Project ?</u></h3>
+<br>
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ProjectId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ProjectName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StartDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> <br><br>
+           
+           <h6>@Html.ActionLink("Back to List", "Index")</h6>
+        </div>
+    }
+</div>

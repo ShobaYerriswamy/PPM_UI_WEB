@@ -1,0 +1,103 @@
+@model IEnumerable<PPM.DAL.Models.Project>
+
+    @{
+        ViewBag.Title = "Project";
+    }
+
+    <h1 >Project List</h1>
+
+    @if (TempData["InfoMessage"] != null)
+    {
+        <div class = "alert alert-info">
+            <strong>Info ! </strong>@TempData["InfoMessage"]
+            <button type="button" class="close" data-dis="alert" aria-label="Close">
+                <span>&times;</span>
+            </button>
+         </div>
+    }
+    else if (TempData["SuccessMessage"] != null)
+    {
+        <div class = "alert alert-success">
+            <strong>Success ! </strong>@TempData["SuccessMessage"]
+            <button type="button" class="close" data-dis="alert" aria-label="Close">
+                <span>&times;</span>
+            </button>
+         </div>
+    }
+    else if (TempData["ErrorMessage"] != null)
+    {
+        <div class = "alert alert-danger">
+            <strong> Error ! </strong>@TempData["ErrorsMessage"]
+            <button type="button" class="close" data-dis="alert" aria-label="Close">
+                <span>&times;</span>
+            </button>
+         </div>
+    }
+
+
+    <p>
+        <h2>@Html.ActionLink("Create New Project", "Create",null, new {@class = "btn btn-primary"})</h2>
+
+    </p>
+
+    <br>
+
+
+    <table class="Table">
+        <thead>
+            <tr>
+               
+                <th width="150">
+                    @Html.DisplayNameFor(model => model.ProjectName)
+                </th>
+                <th width="150">
+                    @Html.DisplayNameFor(model => model.StartDate)
+                </th width="150"> 
+                <th>
+                    @Html.DisplayNameFor(model => model.EndDate)
+                </th width="150">
+                <th>Action Methods</th>
+            </tr>
+        </thead>
+
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+               
+                <td>
+                    @item.ProjectName
+                </td>
+                <td>
+                    @item.StartDate
+                </td>
+                <td>
+                    @item.EndDate
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ProjectId }, new {@class = "btn btn-primary"}) &nbsp;&nbsp;
+                    @Html.ActionLink("Details", "Details", new { id = item.ProjectId }, new {@class = "btn btn-success"}) &nbsp;&nbsp;
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ProjectId }, new {@class = "btn btn-danger"})
+                </td>
+            </tr>
+        </tbody>
+        
+    }
+</table>
+
+<html>
+    <style>
+        th, td {
+        padding: 25px;
+        }
+
+        table {
+        border-collapse: collapse;
+        border: 2px solid black;
+        }
+
+        th, td {
+        border: 2px solid black;
+    }
+    </style>
+</html>

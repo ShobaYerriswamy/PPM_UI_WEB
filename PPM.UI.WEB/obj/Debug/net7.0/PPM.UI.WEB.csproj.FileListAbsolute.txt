@@ -1,0 +1,256 @@
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\ConfigurationFiles\app.config
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\appsettings.json
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.staticwebassets.runtime.json
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.exe
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.dll.config
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.deps.json
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.runtimeconfig.json
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.pdb
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Google.Protobuf.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\MySql.Data.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\MySQLConnection.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\MySqlConnector.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Drawing.Common.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Windows.Extensions.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.DAL.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.DAL.pdb
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.csproj.AssemblyReference.cache
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.AssemblyInfoInputs.cache
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.AssemblyInfo.cs
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.csproj.CoreCompileInputs.cache
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.RazorAssemblyInfo.cache
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.RazorAssemblyInfo.cs
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.PPM.UI.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.build.PPM.UI.WEB.props
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PPM.UI.WEB.props
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PPM.UI.WEB.props
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\scopedcss\bundle\PPM.UI.WEB.styles.css
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\scopedcss\projectbundle\PPM.UI.WEB.bundle.scp.css
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.csproj.CopyComplete
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\refint\PPM.UI.WEB.dll
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.pdb
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.genruntimeconfig.cache
+c:\Users\SMandlole\Desktop\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\ref\PPM.UI.WEB.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\appsettings.json
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\ConfigurationFiles\app.config
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.staticwebassets.runtime.json
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.exe
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.dll.config
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.deps.json
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.runtimeconfig.json
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.pdb
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Google.Protobuf.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\MySql.Data.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\MySQLConnection.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\MySqlConnector.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Drawing.Common.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Windows.Extensions.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.DAL.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.DAL.pdb
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.csproj.AssemblyReference.cache
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.AssemblyInfoInputs.cache
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.AssemblyInfo.cs
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.csproj.CoreCompileInputs.cache
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.RazorAssemblyInfo.cache
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.RazorAssemblyInfo.cs
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.PPM.UI.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.build.PPM.UI.WEB.props
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PPM.UI.WEB.props
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PPM.UI.WEB.props
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\scopedcss\bundle\PPM.UI.WEB.styles.css
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\scopedcss\projectbundle\PPM.UI.WEB.bundle.scp.css
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.csproj.CopyComplete
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\refint\PPM.UI.WEB.dll
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.pdb
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.genruntimeconfig.cache
+c:\Users\SMandlole\Downloads\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\ref\PPM.UI.WEB.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\appsettings.json
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\ConfigurationFiles\app.config
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.staticwebassets.runtime.json
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.exe
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.dll.config
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.deps.json
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.runtimeconfig.json
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.pdb
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Google.Protobuf.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\MySql.Data.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\MySQLConnection.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\MySqlConnector.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Drawing.Common.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Windows.Extensions.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.DAL.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.DAL.pdb
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.csproj.AssemblyReference.cache
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.AssemblyInfoInputs.cache
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.AssemblyInfo.cs
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.csproj.CoreCompileInputs.cache
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.RazorAssemblyInfo.cache
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.RazorAssemblyInfo.cs
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.PPM.UI.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.build.PPM.UI.WEB.props
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PPM.UI.WEB.props
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PPM.UI.WEB.props
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\scopedcss\bundle\PPM.UI.WEB.styles.css
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\scopedcss\projectbundle\PPM.UI.WEB.bundle.scp.css
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.csproj.CopyComplete
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\refint\PPM.UI.WEB.dll
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.pdb
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.genruntimeconfig.cache
+c:\Users\SMandlole\Downloads\MVC_NEW _new\MVC_NEW\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\ref\PPM.UI.WEB.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\ConfigurationFiles\app.config
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\appsettings.json
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.staticwebassets.runtime.json
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.exe
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.dll.config
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.deps.json
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.runtimeconfig.json
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.UI.WEB.pdb
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Google.Protobuf.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\MySql.Data.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\MySQLConnection.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\MySqlConnector.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Drawing.Common.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\System.Windows.Extensions.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.DAL.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\bin\Debug\net7.0\PPM.DAL.pdb
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.csproj.AssemblyReference.cache
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.AssemblyInfoInputs.cache
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.AssemblyInfo.cs
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.csproj.CoreCompileInputs.cache
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.RazorAssemblyInfo.cache
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.RazorAssemblyInfo.cs
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.PPM.UI.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.build.PPM.UI.WEB.props
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PPM.UI.WEB.props
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PPM.UI.WEB.props
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\scopedcss\bundle\PPM.UI.WEB.styles.css
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\scopedcss\projectbundle\PPM.UI.WEB.bundle.scp.css
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.csproj.CopyComplete
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\refint\PPM.UI.WEB.dll
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.pdb
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\PPM.UI.WEB.genruntimeconfig.cache
+c:\Users\SMandlole\MVC_NEW\PPM.UI.WEB\obj\Debug\net7.0\ref\PPM.UI.WEB.dll

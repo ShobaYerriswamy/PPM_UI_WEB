@@ -1,0 +1,59 @@
+@model PPM.DAL.Models.Project
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2 style="color: orange;"><u>Employee Details</u></h2>
+<br>
+
+@if (TempData["ErrorMessage"] != null)
+    {
+        <div class = "alert alert-danger">
+            <strong>Error ! </strong>@TempData["ErrorMessage"]
+            <button type="button" class="close" data-dis="alert" aria-label="Close">
+                <span>&times;</span>
+            </button>
+         </div>
+    }
+
+
+<div>
+    <h4>Project</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ProjectId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ProjectName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StartDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ProjectId }, new {@class = "btn btn-primary"}) &nbsp;
+    @Html.ActionLink("Delete", "Delete", new { id = Model.ProjectId }, new {@class = "btn btn-danger"})
+</p>
+<br>
+<div>
+   <h6>@Html.ActionLink("Back to List", "Index")</h6>
+</div>

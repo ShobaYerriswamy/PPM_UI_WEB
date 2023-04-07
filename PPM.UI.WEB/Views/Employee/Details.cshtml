@@ -1,0 +1,77 @@
+@model PPM.DAL.Models.Employee
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2 style="color: orange;"><u>Employee Details</u></h2>
+<br>
+
+@if (TempData["ErrorMessage"] != null)
+    {
+        <div class = "alert alert-danger">
+            <strong>Error ! </strong>@TempData["ErrorMessage"]
+            <button type="button" class="close" data-dis="alert" aria-label="Close">
+                <span>&times;</span>
+            </button>
+         </div>
+    }
+
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EmailId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EmailId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.MobileNumber)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MobileNumber)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.RoleId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RoleId)
+        </dd>
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EmployeeId }, new {@class = "btn btn-primary"}) &nbsp;
+    @Html.ActionLink("Delete", "Delete", new { id = Model.EmployeeId }, new {@class = "btn btn-danger"})
+</p>
+<br>
+<div>
+    <h6>@Html.ActionLink("Back to List", "Index")</h6>
+</div>
